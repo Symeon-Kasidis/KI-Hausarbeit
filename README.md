@@ -1,6 +1,6 @@
 # KI-Hausarbeit
 
-1. Download the original Dataset for keggle. I am not allowed to publish it here because of the license
+1. Download the original Dataset for kaggle. I am not allowed to publish it here because of the license
 
 link: https://www.kaggle.com/datasets/shaunthesheep/microsoft-catsvsdogs-dataset
 
